@@ -1,0 +1,16 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    curses (1.0.1)
+    iStats (1.2.0)
+      parseconfig (~> 1.0)
+      sparkr (~> 0.4)
+    parseconfig (1.0.6)
+    sparkr (0.4.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  curses
+  iStats
